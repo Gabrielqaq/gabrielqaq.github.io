@@ -1,0 +1,39 @@
+
+
+#topo{
+	background-image:url(topo.jpg);
+	width:100%;
+	height:190px;
+	margin-bottom: 30px;
+    padding:10px;
+    /*position: fixed;*/
+	
+	display:flex;
+	justify-content:flex-start;
+	align-items:center;
+	column-gap:20%;
+}
+
+#topo h1{
+	width:15%;
+	
+    
+}
+
+#topo h1 img{
+   max-width:100%;
+    
+}
+
+.titulo{
+    
+    height: 130px;
+}
+
+
+#nome{
+   height:100px;
+    margin: 0 auto;
+   
+  
+}
